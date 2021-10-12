@@ -527,26 +527,6 @@
 		<tr>
 			<td>
 			Second row of Inner Table
-			<!DOCTYPE html>
-<html>
-
-<body>
-<table border=5 bordercolor=black>
-	<tr>
-	<td>
-		Fisrt Column of Outer Table
-	</td>
-
-	<td>
-		<table border=5 bordercolor=grey>
-		<tr>
-			<td>
-			First row of Inner Table
-			</td>
-		</tr>
-		<tr>
-			<td>
-			Second row of Inner Table
 			</td>
 			</tr>
 		</table>
@@ -558,5 +538,5 @@
 </html>
 
 
-</html>
+
 
