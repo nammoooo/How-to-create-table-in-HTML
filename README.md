@@ -7,32 +7,31 @@
 
 	<table>
 		<tr>
-			<th>Book Name</th>
-			<th>Author Name</th>
-			<th>Genre</th>
+			<th>Candidate Name</th>
+			<th>Designation</th>
+			<th>Skill</th>
 		</tr>
 		<tr>
-			<td>The Book Thief</td>
-			<td>Markus Zusak</td>
-			<td>Historical Fiction</td>
+			<td>Sanjay Singh Rawat</td>
+			<td>Senior Software Engineer</td>
+			<td>Bigdata</td>
 		</tr>
 		<tr>
-			<td>The Cruel Prince</td>
-			<td>Holly Black</td>
-			<td>Fantasy</td>
+			<td>Sreeram Gorpoade</td>
+			<td>Technical Lead</td>
+			<td>Golang</td>
 		</tr>
 		<tr>
-			<td>The Silent Patient</td>
-			<td> Alex Michaelides</td>
-			<td>Psychological Fiction</td>
+			<td>Rashi Agarwal</td>
+			<td>Senior Tester</td>
+			<td>Selenium</td>
 		</tr>
 	</table>
 
 </body>
-
 </html>
 
-Defining Tables in HTML
+## Defining Tables in HTML ##
 
 <!DOCTYPE html>
 <html>
@@ -42,27 +41,26 @@ Defining Tables in HTML
 <tr>
 	<th>Firstname</th>
 	<th>Lastname</th>
-	<th>Age</th>
+	<th>Role</th>
 </tr>
 <tr>
 	<td>Priya</td>
 	<td>Sharma</td>
-	<td>24</td>
+	<td>Java Developer</td>
 </tr>
 <tr>
 	<td>Arun</td>
 	<td>Singh</td>
-	<td>32</td>
+	<td>UI designer</td>
 </tr>
 <tr>
 	<td>Sam</td>
 	<td>Watson</td>
-	<td>41</td>
+	<td>FullStack Developer</td>
 </tr>
 </table>
 
 </body>
-
 </html>
 
 ## Adding a border to a HTML Table: ##
@@ -84,22 +82,22 @@ Defining Tables in HTML
 	<tr>
 	<th>Firstname</th>
 	<th>Lastname</th>
-	<th>Age</th>
+	<th>Role</th>
 	</tr>
 	<tr>
 	<td>Priya</td>
 	<td>Sharma</td>
-	<td>24</td>
+	<td>Java Developer</td>
 	</tr>
 	<tr>
 	<td>Arun</td>
 	<td>Singh</td>
-	<td>32</td>
+	<td>UI Designer</td>
 	</tr>
 	<tr>
 	<td>Sam</td>
 	<td>Watson</td>
-	<td>41</td>
+	<td>FullStack Developer</td>
 	</tr>
 </table>
 </body>
@@ -128,22 +126,22 @@ Defining Tables in HTML
 	<tr>
 	<th>Firstname</th>
 	<th>Lastname</th>
-	<th>Age</th>
+	<th>Role</th>
 	</tr>
 	<tr>
-	<td>Priya</td>
-	<td>Sharma</td>
-	<td>24</td>
+	<td>Priyanka</td>
+	<td>Chaturvedi</td>
+	<td>Cloud Engineer</td>
 	</tr>
 	<tr>
 	<td>Arun</td>
-	<td>Singh</td>
-	<td>32</td>
+	<td>Mondal</td>
+	<td>DevOps Engineer</td>
 	</tr>
 	<tr>
-	<td>Sam</td>
+	<td>Samuel</td>
 	<td>Watson</td>
-	<td>41</td>
+	<td>Site Reliability Engineer</td>
 	</tr>
 </table>
 </body>
@@ -151,6 +149,7 @@ Defining Tables in HTML
 </html>
 
 ## Adding Cell Padding in a HTML Table: ##
+
 <!DOCTYPE html>
 <html>
 
@@ -176,22 +175,22 @@ Defining Tables in HTML
 	<tr>
 	<th>Firstname</th>
 	<th>Lastname</th>
-	<th>Age</th>
+	<th>Role</th>
 	</tr>
 	<tr>
-	<td>Priya</td>
+	<td>Radhika</td>
 	<td>Sharma</td>
-	<td>24</td>
+	<td>Data Scientist</td>
 	</tr>
 	<tr>
-	<td>Arun</td>
-	<td>Singh</td>
-	<td>32</td>
+	<td>Arunachalam</td>
+	<td>Parthasarthy</td>
+	<td>Data Analyst</td>
 	</tr>
 	<tr>
-	<td>Sam</td>
-	<td>Watson</td>
-	<td>41</td>
+	<td>Sameer</td>
+	<td>Malhotra</td>
+	<td>Data Engineer</td>
 	</tr>
 </table>
 </body>
@@ -227,22 +226,22 @@ Defining Tables in HTML
 	<tr>
 	<th>Firstname</th>
 	<th>Lastname</th>
-	<th>Age</th>
+	<th>Role</th>
 	</tr>
 	<tr>
-	<td>Priya</td>
-	<td>Sharma</td>
-	<td>24</td>
+	<td>Prabhu</td>
+	<td>Sachdeva</td>
+	<td>SDET</td>
 	</tr>
 	<tr>
-	<td>Arun</td>
-	<td>Singh</td>
-	<td>32</td>
+	<td>Ashish</td>
+	<td>Monge</td>
+	<td>SDE</td>
 	</tr>
 	<tr>
-	<td>Sam</td>
-	<td>Watson</td>
-	<td>41</td>
+	<td>Sanyukta</td>
+	<td>Panigrahi</td>
+	<td>SDM</td>
 	</tr>
 </table>
 </body>
@@ -272,22 +271,22 @@ Defining Tables in HTML
 	<tr>
 	<th>Firstname</th>
 	<th>Lastname</th>
-	<th>Age</th>
+	<th>Location</th>
 	</tr>
 	<tr>
-	<td>Priya</td>
+	<td>Meenu</td>
 	<td>Sharma</td>
-	<td>24</td>
+	<td>India</td>
 	</tr>
 	<tr>
-	<td>Arun</td>
-	<td>Singh</td>
-	<td>32</td>
+	<td>Mark</td>
+	<td>Samuel</td>
+	<td>Italy</td>
 	</tr>
 	<tr>
 	<td>Sam</td>
-	<td>Watson</td>
-	<td>41</td>
+	<td>Ahlawat</td>
+	<td>Canada</td>
 	</tr>
 </table>
 </body>
@@ -325,9 +324,9 @@ Defining Tables in HTML
 	<th colspan="2">Telephone</th>
 	</tr>
 	<tr>
-	<td>Vikas Rawat</td>
-	<td>9125577854</td>
-	<td>8565557785</td>
+	<td>Inderjeet Rawat</td>
+	<td>9125408567</td>
+	<td>8565000000</td>
 	</tr>
 </table>
 </body>
@@ -360,14 +359,14 @@ Defining Tables in HTML
 <table style="width:100%">
 	<tr>
 	<th>Name:</th>
-	<td>Vikas Rawat</td>
+	<td>Surjeet Singh</td>
 	</tr>
 	<tr>
 	<th rowspan="2">Telephone:</th>
-	<td>9125577854</td>
+	<td>912557805000</td>
 	</tr>
 	<tr>
-	<td>8565557785</td>
+	<td>85655000000</td>
 	</tr>
 </table>
 </body>
@@ -404,22 +403,22 @@ Defining Tables in HTML
 	<tr>
 	<th>Firstname</th>
 	<th>Lastname</th>
-	<th>Age</th>
+	<th>Location</th>
 	</tr>
 	<tr>
-	<td>Priya</td>
+	<td>Hema</td>
 	<td>Sharma</td>
-	<td>24</td>
+	<td>US</td>
 	</tr>
 	<tr>
-	<td>Arun</td>
-	<td>Singh</td>
-	<td>32</td>
+	<td>Pradeep</td>
+	<td>Bhandari</td>
+	<td>Germany</td>
 	</tr>
 	<tr>
-	<td>Sam</td>
-	<td>Watson</td>
-	<td>41</td>
+	<td>Thomas</td>
+	<td>Falcon</td>
+	<td>Israel</td>
 	</tr>
 </table>
 </body>
@@ -458,22 +457,22 @@ Defining Tables in HTML
 	<tr>
 	<th>Firstname</th>
 	<th>Lastname</th>
-	<th>Age</th>
+	<th>Profession</th>
 	</tr>
 	<tr>
-	<td>Priya</td>
-	<td>Sharma</td>
-	<td>24</td>
+	<td>Thomas</td>
+	<td>Lawrence</td>
+	<td>Dance Istructor</td>
 	</tr>
 	<tr>
-	<td>Arun</td>
-	<td>Singh</td>
-	<td>32</td>
+	<td>Lewis</td>
+	<td>Terrance</td>
+	<td>Doctor</td>
 	</tr>
 	<tr>
-	<td>Sam</td>
+	<td>Bradley</td>
 	<td>Watson</td>
-	<td>41</td>
+	<td>Scientist</td>
 	</tr>
 </table>
 
@@ -484,22 +483,22 @@ Defining Tables in HTML
 	<tr>
 	<th>Firstname</th>
 	<th>Lastname</th>
-	<th>Age</th>
+	<th>Profession</th>
 	</tr>
 	<tr>
-	<td>Priya</td>
-	<td>Sharma</td>
-	<td>24</td>
+	<td>Thomas</td>
+	<td>Lawrence</td>
+	<td>Dance Istructor</td>
 	</tr>
 	<tr>
-	<td>Arun</td>
-	<td>Singh</td>
-	<td>32</td>
+	<td>Lewis</td>
+	<td>Terrance</td>
+	<td>Doctor</td>
 	</tr>
 	<tr>
-	<td>Sam</td>
+	<td>Bradley</td>
 	<td>Watson</td>
-	<td>41</td>
+	<td>Scientist</td>
 
 	</tr>
 </table>
@@ -528,13 +527,36 @@ Defining Tables in HTML
 		<tr>
 			<td>
 			Second row of Inner Table
+			<!DOCTYPE html>
+<html>
+
+<body>
+<table border=5 bordercolor=black>
+	<tr>
+	<td>
+		Fisrt Column of Outer Table
+	</td>
+
+	<td>
+		<table border=5 bordercolor=grey>
+		<tr>
+			<td>
+			First row of Inner Table
 			</td>
 		</tr>
+		<tr>
+			<td>
+			Second row of Inner Table
+			</td>
+			</tr>
 		</table>
-	</td>
+		</td>
 	</tr>
 </table>
 </body>
+
+</html>
+
 
 </html>
 
